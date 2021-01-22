@@ -1,0 +1,6 @@
+com\gcy\order\OrderApp.class
+com\gcy\order\balancer\impl\RotationLoadBalancer.class
+com\gcy\order\balancer\LoadBalancer.class
+com\gcy\order\service\OrderService.class
+com\gcy\order\config\OrderConfig.class
+com\gcy\order\memberFegin\MemberServiceFeign.class

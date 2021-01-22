@@ -1,0 +1,6 @@
+H:\ideaProject\springboot\springCloudDemo\mayikt-order2021\src\main\java\com\gcy\order\balancer\impl\RotationLoadBalancer.java
+H:\ideaProject\springboot\springCloudDemo\mayikt-order2021\src\main\java\com\gcy\order\memberFegin\MemberServiceFeign.java
+H:\ideaProject\springboot\springCloudDemo\mayikt-order2021\src\main\java\com\gcy\order\service\OrderService.java
+H:\ideaProject\springboot\springCloudDemo\mayikt-order2021\src\main\java\com\gcy\order\OrderApp.java
+H:\ideaProject\springboot\springCloudDemo\mayikt-order2021\src\main\java\com\gcy\order\balancer\LoadBalancer.java
+H:\ideaProject\springboot\springCloudDemo\mayikt-order2021\src\main\java\com\gcy\order\config\OrderConfig.java

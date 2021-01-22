@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mayikt-member2021/mayikt-member2021.iml" filepath="$PROJECT_DIR$/mayikt-member2021/mayikt-member2021.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mayikt-order2021/mayikt-order2021.iml" filepath="$PROJECT_DIR$/mayikt-order2021/mayikt-order2021.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springCloudDemo.iml" filepath="$PROJECT_DIR$/.idea/springCloudDemo.iml" />
+    </modules>
+  </component>
+</project>
